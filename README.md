@@ -8,4 +8,6 @@
 ### Descrição
 
 ```
-Para esse desafio, inicialmente segui com os comandos de SQL, do básico ao avançado, utilizando o banco de dados SQL Server, onde aprofundarei mais meus conhecimentos com outros exemplos de database.
+Para esse desafio, inicialmente segui com os comandos de SQL, do básico ao avançado,
+utilizando o banco de dados SQL Server, onde aprofundarei mais meus conhecimentos com
+outros exemplos de database.
